@@ -23,4 +23,4 @@ or chat with us on [Freenode](https://freenode.net/faq.shtml#whatwhy) at `#teche
 
 ### Wiki
 
-The TFB Wiki's current primary use is to track suggested new frameworks, languages and features. Official documentation and contribution guides can be found in the links above.
+The TFB Wiki's current primary use is to track [suggested new frameworks, languages and features](https://github.com/TechEmpower/FrameworkBenchmarks/wiki/Suggested-Frameworks,-Languages-and-Features). Official documentation and contribution guides can be found in the links above.
