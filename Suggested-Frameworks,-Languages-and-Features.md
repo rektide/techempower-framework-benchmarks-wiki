@@ -2,52 +2,54 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 ### Frameworks
 
 ##### C
-H2O
+* H2O
 
 ##### C++
-Casablanca
-CppCMS
-ffead
-Pion
-Proxygen
+* Casablanca
+* CppCMS
+* ffead
+* Pion
+* Proxygen
 
 ##### C#
-Akka
+* Akka
 
 ##### Erlang
-Mochiweb
-Nitrogen
-Zotonic
+* Mochiweb
+* Nitrogen
+* Zotonic
 
 ##### Gallina
-Pluto
+* Pluto
 
 ##### Haskell
-Happstack
+* Happstack
 
 ##### Java
-Grails (Update to 3.0.x)
-Stripes
+* Grails (Update to 3.0.x)
+* Stripes
 
 ##### PHP
-Aura
-CodeIgniter (Update to 3)
-Drupal
-Phalcon (Update to 2.0) 
-Smce
-Smce2
-Swool
-ThinkPHP
+* Aura
+* CodeIgniter (Update to 3)
+* Drupal
+* Phalcon (Update to 2.0) 
+* RadarPHP
+* Smce
+* Smce2
+* Swool
+* ThinkPHP
+* Zend Expressive
 
 ##### Ruby
-Cuba
-Goliath
-Lotus
-Raptor (Phusion Passenger 5)
-Reel
-Webmachine
+* Cuba
+* Goliath
+* Lotus
+* Raptor (Phusion Passenger 5)
+* Reel
+* Webmachine
 
 ### Languages
 
-Nim (Update)
-R
+* Nim (Update)
+* R
