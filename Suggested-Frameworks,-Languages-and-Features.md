@@ -29,6 +29,9 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 * Grails (Update to 3.0.x)
 * Stripes
 
+##### JavaScript
+* NodeJS (Update to 4.0)
+
 ##### PHP
 * Aura
 * CodeIgniter (Update to 3)
