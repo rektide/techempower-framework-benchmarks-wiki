@@ -39,6 +39,7 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 * Drupal
 * Phalcon (Update to 2.0) 
 * RadarPHP
+* ReactPHP
 * Smce
 * Smce2
 * Swool
