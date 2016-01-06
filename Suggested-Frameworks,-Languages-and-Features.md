@@ -3,6 +3,7 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 
 ##### C
 * H2O
+* KORE.io
 
 ##### C++
 * Casablanca
