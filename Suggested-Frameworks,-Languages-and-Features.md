@@ -1,4 +1,5 @@
 In an effort to keep the issues from becoming too cluttered, the following is a list of suggested frameworks and languages for future rounds of The Framework Benchmarks. If there is a language or framework you would like to see added in the future, you may submit a pull request with your test or leave a suggestion in the comments below.
+
 ## Frameworks
 
 ### C
@@ -59,3 +60,4 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 
 * Nim (Update)
 * R
+* C# ([.NET Core Rutnime](https://github.com/dotnet/cli))
