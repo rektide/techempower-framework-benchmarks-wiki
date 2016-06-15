@@ -33,6 +33,7 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 
 ### JavaScript
 * NodeJS (Update to 4.0)
+* Hapi (Update to 13.x)
 
 ### PHP
 * Update to PHP 7 generally
