@@ -61,3 +61,8 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 * Nim (Update)
 * R
 * C# ([.NET Core Rutnime](https://github.com/dotnet/cli))
+
+## Databases
+
+* Elasticsearch (Update to 2.3.3)
+* Cassandra (Update to 3.0.6)
