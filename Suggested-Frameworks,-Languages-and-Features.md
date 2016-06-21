@@ -67,3 +67,4 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 
 * Elasticsearch (Update to 2.3.3)
 * Cassandra (Update to 3.0.6)
+* MongoDB (Update to 3.2)
