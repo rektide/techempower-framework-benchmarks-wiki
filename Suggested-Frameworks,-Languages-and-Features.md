@@ -33,14 +33,12 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 
 ### JavaScript
 * NodeJS (Update to 4.0)
-* Hapi (Update to 13.x)
 
 ### PHP
 * Update to PHP 7 generally
 * Aura
-* CodeIgniter (Update to 3)
 * Drupal
-* Phalcon (Update to 2.0) 
+* Phalcon (Update to 2.1 when it is released) 
 * RadarPHP
 * ReactPHP
 * Smce
