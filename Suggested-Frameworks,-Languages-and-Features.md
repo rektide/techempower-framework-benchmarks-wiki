@@ -47,7 +47,7 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 ### Ruby
 * Cuba
 * Goliath
-* Lotus
+* Hanami
 * Raptor (Phusion Passenger 5)
 * Reel
 * Webmachine
