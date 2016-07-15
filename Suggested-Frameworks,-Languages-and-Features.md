@@ -43,6 +43,7 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 * Swool
 * ThinkPHP
 * Zend Expressive
+* Zend (update to v3)
 
 ### Ruby
 * Cuba
