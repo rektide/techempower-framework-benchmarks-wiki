@@ -24,6 +24,9 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 ### Gallina
 * Pluto
 
+### Golang
+* Iris
+
 ### Haskell
 * Happstack
 
