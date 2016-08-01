@@ -56,6 +56,9 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 * Reel
 * Webmachine
 
+### Swift
+* Perfect
+
 ## Languages
 
 * Nim (Update)
