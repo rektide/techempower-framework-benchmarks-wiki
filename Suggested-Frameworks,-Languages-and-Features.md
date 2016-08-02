@@ -3,7 +3,6 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 ## Frameworks
 
 ### C
-* H2O (see [#2145](https://github.com/TechEmpower/FrameworkBenchmarks/pull/2145))
 * KORE.io
 
 ### C++
