@@ -38,7 +38,6 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 * Update to PHP 7 generally
 * Aura
 * Drupal
-* Phalcon (Update to 2.1 when it is released) 
 * RadarPHP
 * ReactPHP
 * Smce
