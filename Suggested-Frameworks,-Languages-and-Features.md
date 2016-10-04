@@ -8,7 +8,6 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 ### C++
 * Casablanca
 * CppCMS
-* ffead
 * Pion
 * Proxygen
 
