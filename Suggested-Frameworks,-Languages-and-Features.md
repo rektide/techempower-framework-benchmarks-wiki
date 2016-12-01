@@ -3,63 +3,63 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 ## Frameworks
 
 ### C
-* KORE.io
+* [KORE.io](https://github.com/jorisvink/kore)
 
 ### C++
-* Casablanca
-* CppCMS
-* Pion
-* Proxygen
+* [C++ REST SDK](https://github.com/Microsoft/cpprestsdk)
+* [CppCMS](http://cppcms.com/wikipp/en/page/main)
+* [Pion](https://github.com/splunk/pion)
+* [Proxygen](https://github.com/facebook/proxygen)
 
 ### CSharp
-* Akka
+* [Akka.NET](https://github.com/akkadotnet/akka.net/)
 
 ### Erlang
-* Mochiweb
-* Nitrogen
-* Zotonic
+* [Nitrogen](https://github.com/nitrogen/nitrogen)
+* [Zotonic](https://github.com/zotonic/zotonic)
 
 ### Gallina
-* Pluto
+* [Pluto](https://github.com/coq-concurrency/pluto)
 
 ### Golang
-* Iris
+* [Iris](https://github.com/kataras/iris)
 
 ### Haskell
-* Happstack
+* [Happstack](http://www.happstack.com/page/view-page-slug/1/happstack)
 
 ### Java
-* Grails (Update to 3.0.x)
-* Stripes
+* [Grails](https://grails.org/) (Update to 3.0.x)
+* [Stripes](https://github.com/StripesFramework/stripes)
 
 ### PHP
 * Update to PHP 7 generally
-* Aura
-* Drupal
-* RadarPHP
-* ReactPHP
-* Smce
-* Smce2
-* Swool
-* ThinkPHP
-* Zend Expressive
-* Zend (update to v3)
+* [Aura](http://auraphp.com/)
+* [Drupal](https://www.drupal.org/)
+* [RadarPHP](https://github.com/radarphp/Radar.Project)
+* [ReactPHP](https://github.com/reactphp/react)
+* [Smce](https://github.com/peterkokot/smceframework-MVC)
+* [Swoole](https://github.com/swoole/swoole-src)
+* [ThinkPHP](https://github.com/top-think/think)
+* [Zend Expressive](https://github.com/zendframework/zend-expressive)
+* [Zend](https://framework.zend.com/) (update to v3)
 
 ### Ruby
-* Cuba
-* Goliath
-* Hanami
-* Raptor (Phusion Passenger 5)
-* Reel
-* Webmachine
+* [Cuba](https://github.com/soveran/cuba)
+* [Goliath](https://github.com/postrank-labs/goliath)
+* [Hanami](https://github.com/hanami/hanami)
+* [Raptor](https://github.com/garybernhardt/raptor) ([Phusion Passenger 5](https://github.com/phusion/passenger))
+* [Reel](https://github.com/celluloid/reel)
+* [Webmachine](https://github.com/webmachine/webmachine-ruby)
 
 ### Swift
-* Perfect
+* [Perfect](https://github.com/PerfectlySoft/Perfect)
+* [Vapor](https://github.com/vapor/vapor)
+* [Kitura](https://github.com/IBM-Swift/Kitura)
 
 ## Languages
 
-* Nim (Update)
-* R
+* [Nim](http://nim-lang.org/) (Update)
+* [R](https://www.r-project.org/)
 * C# ([.NET Core Rutnime](https://github.com/dotnet/cli))
 
 ## Databases
