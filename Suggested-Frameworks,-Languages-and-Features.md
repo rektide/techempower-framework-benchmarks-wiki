@@ -21,9 +21,6 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 ### Gallina
 * [Pluto](https://github.com/coq-concurrency/pluto)
 
-### Golang
-* [Iris](https://github.com/kataras/iris)
-
 ### Haskell
 * [Happstack](http://www.happstack.com/page/view-page-slug/1/happstack)
 
