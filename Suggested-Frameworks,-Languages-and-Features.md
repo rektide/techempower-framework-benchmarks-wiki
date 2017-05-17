@@ -29,9 +29,9 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 * [Stripes](https://github.com/StripesFramework/stripes)
 
 ### PHP
-* Update to PHP 7 generally
 * [Aura](http://auraphp.com/)
 * [Drupal](https://www.drupal.org/)
+* [PHP-PM](https://github.com/php-pm/php-pm)
 * [RadarPHP](https://github.com/radarphp/Radar.Project)
 * [ReactPHP](https://github.com/reactphp/react)
 * [Smce](https://github.com/peterkokot/smceframework-MVC)
@@ -50,7 +50,6 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 
 ### Swift
 * [Perfect](https://github.com/PerfectlySoft/Perfect)
-* [Vapor](https://github.com/vapor/vapor)
 * [Kitura](https://github.com/IBM-Swift/Kitura)
 
 ## Languages
