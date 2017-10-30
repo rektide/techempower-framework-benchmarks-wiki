@@ -54,9 +54,10 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 
 ## Languages
 
+* [F-Sharp](https://github.com/TheAngryByrd/dotnet-web-benchmarks/tree/master/src) 
 * [Nim](http://nim-lang.org/) (Update)
 * [R](https://www.r-project.org/)
-* C# ([.NET Core Rutnime](https://github.com/dotnet/cli))
+* C# ([.NET Core Runtime](https://github.com/dotnet/cli))
 
 ## Databases
 
