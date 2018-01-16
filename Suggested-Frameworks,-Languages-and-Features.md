@@ -14,6 +14,9 @@ In an effort to keep the issues from becoming too cluttered, the following is a 
 ### CSharp
 * [Akka.NET](https://github.com/akkadotnet/akka.net/)
 
+### Elixir
+* [Sugar](https://sugar-framework.github.io/)
+
 ### Erlang
 * [Nitrogen](https://github.com/nitrogen/nitrogen)
 * [Zotonic](https://github.com/zotonic/zotonic)
